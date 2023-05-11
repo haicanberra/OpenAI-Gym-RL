@@ -20,7 +20,7 @@ For OpenAI Gym ```pip install```:
 Note: Gymnasium, a fork of Gymnasium could be used? Need further testing with compabilities.  
 Gymnasium: https://github.com/Farama-Foundation/Gymnasium  
 For Gymnasium to work on Windows ```pip install```:
-0. swig
-1. gymnasium[all]
-2. gymnasium[accept-rom-license]
-3. shimmy
+1. swig
+2. gymnasium[all]
+3. gymnasium[accept-rom-license]
+4. shimmy
