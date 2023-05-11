@@ -17,7 +17,7 @@ For OpenAI Gym ```pip install```:
 1. lockfile
 2. gym[all] (Probably not all since mujoko is not on Windows)
 
-Note: Gymnasium, a fork of Gymnasium could be used? Need further testing with compabilities.
+Note: Gymnasium, a fork of Gymnasium could be used? Need further testing with compabilities.  
 Gymnasium: https://github.com/Farama-Foundation/Gymnasium
 For Gymnasium to work on Windows ```pip install```:
 0. swig
