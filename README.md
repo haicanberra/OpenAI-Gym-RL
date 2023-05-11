@@ -18,7 +18,7 @@ For OpenAI Gym ```pip install```:
 2. gym[all] (Probably not all since mujoko is not on Windows)
 
 Note: Gymnasium, a fork of Gymnasium could be used? Need further testing with compabilities.  
-Gymnasium: https://github.com/Farama-Foundation/Gymnasium
+Gymnasium: https://github.com/Farama-Foundation/Gymnasium  
 For Gymnasium to work on Windows ```pip install```:
 0. swig
 1. gymnasium[all]
